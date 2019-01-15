@@ -1,7 +1,7 @@
 {
   "name": "webstudio-boilerplate",
-  "version": "1.0.0",
-  "description": "A simple starter kit for building websites",
+  "version": "3.0.0",
+  "description": "Boilerplate for Webstudio GD-3320 / GD-4320 at Kean University",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
